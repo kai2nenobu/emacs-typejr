@@ -2,10 +2,13 @@
 あ	a
 ぃ	xa	li
 い	i
+いぇ    ye      ixe     ile
 ぅ	xu	lu
 う	u
-うぃ	wi
-うぇ	we
+うぁ    wha     uxa     ula
+うぃ	wi      uxi     uli
+うぇ	we      uxe     uli
+うぉ    who     uxo     ulo
 ぇ	xe	le
 え	e
 ぉ	xo	lo
@@ -13,94 +16,100 @@
 か	ka
 が	ga
 き	ki
-きぃ	kyi
-きぇ	kye
-きゃ	kya
-きゅ	kyu
-きょ	kyo
+きぃ	kyi     kixi    kili
+きぇ	kye     kixe    kile
+きゃ	kya     kixya   kilya
+きゅ	kyu     kixyu   kilyu
+きょ	kyo     kixyo   kilyo
 ぎ	gi
-ぎぃ	gyi
-ぎぇ	gye
-ぎゃ	gya
-ぎゅ	gyu
-ぎょ	gyo
+ぎぃ	gyi     gixi    gili
+ぎぇ	gye     gixe    gile
+ぎゃ	gya     gixya   gilya
+ぎゅ	gyu     gixyu   gilyu
+ぎょ	gyo     gixyo   gilyo
 く	ku
-くぁ	qa
-くぃ	qi
-くぇ	qe
-くぉ	qo
+くぁ	qa      kwa     kuxa    kula
+くぃ	qi      kwi     kuxi    kuli
+くぇ	qe      kwe     kuxe    kule
+くぉ	qo      kwo     kuxo    kulo
 ぐ	gu
+ぐぁ    gwa     guxa    gula
 け	ke
 げ	ge
 こ	ko
 ご	go
 さ	sa
 ざ	za
-し	si
-しぃ	syi
-しぇ	sye	she
-しゃ	sya	sha
-しゅ	syu	shu
-しょ	syo	sho
+し	si      shi     ci
+しぃ	syi     sixi    sili    shixi   shili   cixi    cili
+しぇ	sye	she     sixe    sile    shixe   shile   cixe    cile
+しゃ	sya	sha     sixya   silya   shixya  shilya  cixya   cilya
+しゅ	syu	shu     sixyu   silyu   shixyu  shilyu  cixyu   cilyu
+しょ	syo	sho     sixyo   silyo   shixyo  shilyo  cixyo   cilyo
 じ	zi	ji
-じぃ	zyi
-じぇ	zye	je
-じゃ	zya	ja
-じゅ	zyu	ju
-じょ	zyo	jo
+じぃ	zyi     jyi     jixi    jili    zixi    jili
+じぇ	zye	je      jye     jixe    jile    zixe    zile
+じゃ	zya	ja      jya     jixya   jilya   zixya   zilya
+じゅ	zyu	ju      jyu     jixyu   jilyu   zixyu   zilyu
+じょ	zyo	jo      jyo     jixyo   jilyo   zixyo   zilyo
 す	su
 ず	zu
-せ	se
+せ	se      ce
 ぜ	ze
 そ	so
 ぞ	zo
 た	ta
 だ	da
-ち	ti
-ちぃ	tyi	cya
-ちぇ	tye	cyu
-ちゃ	tya	ca
-ちゅ	tyu	cyi
-ちょ	tyo	cyo
+ち	ti      chi
+ちぃ	tyi	cyi     tixi    tili    chixi   chili
+ちぇ	tye	cye     che     tixe    tile    chixe   chile
+ちゃ	tya	cya     cha     tixya   tilya   chixya  chilya      
+ちゅ	tyu	cyu     chu     tixyu   tilyu   chixyu  chilyu
+ちょ	tyo	cyo     cho     tixyo   tilyo   chixyo  chilyo
 ぢ	di
-ぢぃ	dyi
-ぢぇ	dye
-ぢゃ	dya
-ぢゅ	dyu
-ぢょ	dyo
+ぢぃ	dyi     dixi    dili
+ぢぇ	dye     dixe    dile
+ぢゃ	dya     dixya   dilya
+ぢゅ	dyu     dixyu   dilyu
+ぢょ	dyo     dixyo   dilyo
 っ	xtu	xtsu	ltu	ltsu
 つ	tu	tsu
-つぁ	tsa
-つぃ	tsi
-つぇ	tse
-つぉ	tso
+つぁ	tsa     tuxa    tula    tsuxa   tsula
+つぃ	tsi     tuxi    tuli    tsuxi   tsuli
+つぇ	tse     tuxe    tule    tsuxe   tsule
+つぉ	tso     tuxo    tulo    tsuxo   tsulo
 づ	du
 て	te
-てぃ	thi
-てぇ	the
-てゃ	tha
-てゅ	thu
-てょ	tho
+てぃ	thi     texi    teli
+てぇ	the     texe    tele
+てゃ	tha     texya   telya
+てゅ	thu     texyu   telyu
+てょ	tho     texyo   telyo
 で	de
-でぃ	dhi
-でぇ	dhe
-でゃ	dha
-でゅ	dhu
-でょ	dho
+でぃ	dhi     dexi    deli
+でぇ	dhe     dexe    dele
+でゃ	dha     dexya   delya
+でゅ	dhu     dexyu   delyu
+でょ	dho     dexyo   delyo
 と	to
-とぁ	twa
-とぃ	twi
-とぅ	twu
-とぇ	twe
-とぉ	two
+とぁ	twa     toxa    tola
+とぃ	twi     toxi    toli
+とぅ	twu     toxu    tolu
+とぇ	twe     toxe    tole
+とぉ	two     toxo    tolo
 ど	do
+どぁ    dwa     doxa    dola
+どぃ    dwi     doxi    doli
+どぅ    dwu     doxu    dolu
+どぇ    dwe     doxe    dole
+どぉ    dwo     doxo    dolo
 な	na
 に	ni
-にぃ	nyi
-にぇ	nye
-にゃ	nya
-にゅ	nyu
-にょ	nyo
+にぃ	nyi     nixi    nili
+にぇ	nye     nixe    nile
+にゃ	nya     nixya   nilya
+にゅ	nyu     nixyu   nilyu
+にょ	nyo     nixyo   nilyo
 ぬ	nu
 ね	ne
 の	no
@@ -108,29 +117,29 @@
 ば	ba
 ぱ	pa
 ひ	hi
-ひぃ	hyi
-ひぇ	hye
-ひゃ	hya
-ひゅ	hyu
-ひょ	hyo
+ひぃ	hyi     hixi    hili
+ひぇ	hye     hixe    hile
+ひゃ	hya     hixya   hilya
+ひゅ	hyu     hixyu   hilyu
+ひょ	hyo     hixyo   hilyo
 び	bi
-びぃ	byi
-びぇ	bye
-びゃ	bya
-びゅ	byu
-びょ	byo
+びぃ	byi     bixi    bili
+びぇ	bye     bixe    bile
+びゃ	bya     bixya   bilya
+びゅ	byu     bixyu   bilyu
+びょ	byo     bixyo   bilyo
 ぴ	pi
-ぴぃ	pyi
-ぴぇ	pye
-ぴゃ	pya
-ぴゅ	pyu
-ぴょ	pyo
+ぴぃ	pyi     pixi    pili
+ぴぇ	pye     pixe    pile
+ぴゃ	pya     pixya   pilya
+ぴゅ	pyu     pixyu   pilyu
+ぴょ	pyo     pixyo   pilyo
 ふ	hu	fu
-ふぁ	fa
-ふぃ	fi
-ふぇ	fe
-ふぉ	fo
-ふゅ	fyu
+ふぁ	fa      huxa    hula    fuxa    fula
+ふぃ	fi      huxi    huli    fuxi    fuli
+ふぇ	fe      huxe    hule    fuxe    fule
+ふぉ	fo      huxo    hulo    fuxo    fulo
+ふゅ	fyu     huxo    hulo    fuxo    fulo
 ぶ	bu
 ぷ	pu
 へ	he
@@ -141,11 +150,11 @@
 ぽ	po
 ま	ma
 み	mi
-みぃ	myi
-みぇ	mye
-みゃ	mya
-みゅ	myu
-みょ	myo
+みぃ	myi     mixi    mili
+みぇ	mye     mixe    mile
+みゃ	mya     mixya   milya
+みゅ	myu     mixyu   milyu
+みょ	myo     mixyo   milyo
 む	mu
 め	me
 も	mo
@@ -157,11 +166,11 @@
 よ	yo
 ら	ra
 り	ri
-りぃ	ryi
-りぇ	rye
-りゃ	rya
-りゅ	ryu
-りょ	ryo
+りぃ	ryi     rixi    rili
+りぇ	rye     rixe    rile
+りゃ	rya     rixya   rilya
+りゅ	ryu     rixyu   rilyu
+りょ	ryo     rixyo   rilyo
 る	ru
 れ	re
 ろ	ro
@@ -169,3 +178,4 @@
 わ	wa
 を	wo
 ん	n	nn	xn
+ー      -
