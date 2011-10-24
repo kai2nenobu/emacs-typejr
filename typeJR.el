@@ -35,6 +35,7 @@
   (goto-char (point-min))
   (insert "
 
+Time: 
 Evaluation: 
 Type: 
 
